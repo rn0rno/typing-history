@@ -12,5 +12,5 @@ $ bundle exec guard
 
 Another terminal
 ```
-$ ruby save.rb -s e-typing.json
+$ ruby save.rb -s e-typing
 ```
